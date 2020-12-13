@@ -18,9 +18,6 @@ async def ping(ctx):
     await ctx.send('pong')
     
  
-
-
-
 @bot.command()
 async def uso(ctx):
     await ctx.send('嘘つくのやめてもらっていいですか?')   
