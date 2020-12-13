@@ -23,4 +23,4 @@ async def uso(ctx):
     await ctx.send('嘘つくのやめてもらっていいですか?')   
 
     
-    bot.run(token)
+bot.run(token)
