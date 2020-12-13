@@ -19,7 +19,7 @@ async def ping(ctx):
     
 
 @bot.command()
-async def uso(ctx):
+async def po(ctx):
     await ctx.send('嘘つくのやめてもらっていいですか')   
 
     bot.run(token)
